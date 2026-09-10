@@ -45,3 +45,4 @@ Challange Icibos Tecart 1
 3. Setelah sekian percobaan, saya menemukan kata ajaib dan berhasil capture the flag
 
 <img width="1600" height="900" alt="WhatsApp Image 2026-09-10 at 11 06 22 AM" src="https://github.com/user-attachments/assets/08519095-37c8-4087-bc61-3c8b5b9d2411" />
+<img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/7461c76d-c284-4a90-9888-5eeedda091fd" />
